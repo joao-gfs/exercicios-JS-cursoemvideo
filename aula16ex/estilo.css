@@ -1,0 +1,36 @@
+body{
+    background: rgb(91, 91, 216);
+    font: normal 15pt Calibri;
+}
+
+header{
+    color: azure;
+    text-align: center;
+}
+
+section{
+    background: azure;
+    border-radius: 7px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 10px 1px rgba(0, 0, 0, 0.473);
+}
+
+div{
+    padding: 5px;
+}
+
+footer{
+    color: azure;
+    text-align: center;
+    font-style: italic;
+}
+
+select#sellista{
+    width: 200px;
+}
+
+#final{
+    font: bold 15pt Calibri;
+}
